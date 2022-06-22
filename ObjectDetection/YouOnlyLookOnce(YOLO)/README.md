@@ -1,6 +1,7 @@
 ### Training our own YOLO model to detect most of things the car needs to sees<br />
 ## the steps i followed<br />
 1 - i choosed randomly some images from Udacity dataset<br />
+![image](https://user-images.githubusercontent.com/63866803/175038139-c498145c-b24d-441d-8cd9-cc7896bce845.png)<br />
 2 - i changed udacity dataset and i've united all the traffic-light together in one class ID <br />
 ![image](https://user-images.githubusercontent.com/63866803/175036273-772692c4-5d9c-446e-bcc9-d02374410ae4.png)<br />
 ![image](https://user-images.githubusercontent.com/63866803/175036314-0b15cd41-c68c-4153-8322-e4ecfb9b8565.png)<br />
